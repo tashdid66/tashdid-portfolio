@@ -1,12 +1,15 @@
-TASHDID PORTFOLIO
-Extract the ZIP and open index.html. Keep the accompanying files and images folder together.
-Static hosting: no build step or dependencies required.
+TASHDID PORTFOLIO — UPDATED OCTOBER 2026
 
-Updated: text-only Conference Organizing (five roles) and Club Leadership (four roles).
-Both event galleries and their viewer have been removed.
-Joint General Secretary is marked current. Dates for other club roles are omitted.
+Preview: open index.html in a browser.
 
-Hero: edited professional portrait against a charcoal studio backdrop, included as images/hero-formal.png.
+GitHub update:
+1. Extract this ZIP.
+2. Open the GitHub repository that publishes tashdid.me.
+3. Upload the contents of this folder into the existing publishing directory. Keep index.html at its current level.
+4. Replace matching files, then commit the changes.
+5. Preserve your existing CNAME, .github workflows and hosting configuration.
+6. Wait for your existing deployment to finish, then hard-refresh the website.
 
-Validation: JavaScript syntax, image target, section navigation, role counts and gallery removal passed.
-Browser visual testing and live publication remain unavailable due to environment restrictions.
+Includes ten gallery images, category filters, keyboard-accessible photo viewer, LinkedIn/Facebook icons, resume PDF and hello@tashdid.me.
+Your PDF is the supplied resume; its contact details have not been rewritten.
+Google Fonts load online with system-font fallbacks.
